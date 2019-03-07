@@ -9,3 +9,6 @@ C:\Users\Александр\source\repos\Entity Framework\Entity Framework\bin\D
 C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CopyComplete
 C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.dll
 C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb
+C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Migrations.initial.resources
+C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Migrations.order_and_order_item.resources

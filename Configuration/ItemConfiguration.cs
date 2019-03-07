@@ -1,7 +1,7 @@
 ﻿using Entity_Framework.Entities;
 using System.Data.Entity.ModelConfiguration;
 
-namespace Entity_Framework.Configurations
+namespace Entity_Framework.Configuration
 {
     public class ItemConfiguration : EntityTypeConfiguration<Item>
     {

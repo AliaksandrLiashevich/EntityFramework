@@ -1,4 +1,6 @@
-﻿namespace Entity_Framework.Entities
+﻿using System.Collections.Generic;
+
+namespace Entity_Framework.Entities
 {
     public class Item
     {
@@ -7,5 +9,7 @@
         public string Description { get; set; }
 
         public decimal Price { get; set; }
+
+        public virtual ICollection<Order> Orders { get; set; }
     }
 }
