@@ -13,11 +13,18 @@ namespace Entity_Framework.Context
 
         public DbSet<Item> Items { get; set; }
 
+        public DbSet<Item> Order { get; set; }
+
+        public DbSet<Item> OrderItems { get; set; }
+
+        public DbSet<Item> Customers { get; set; }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Configurations.Add(new ItemConfiguration());
             modelBuilder.Configurations.Add(new OrderConfiguration());
             modelBuilder.Configurations.Add(new OrderItemConfiguration());
+            modelBuilder.Configurations.Add(new CustomerConfiguration());
 
             base.OnModelCreating(modelBuilder);
         }

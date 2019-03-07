@@ -13,3 +13,5 @@ C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\D
 C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.GenerateResource.cache
 C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Migrations.order_and_order_item.resources
 C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Migrations.order_items_custom.resources
+C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity_Framework.Migrations.customer.resources
