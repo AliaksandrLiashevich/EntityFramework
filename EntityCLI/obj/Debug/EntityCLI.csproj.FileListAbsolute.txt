@@ -1,0 +1,15 @@
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\EntityCLI.exe.config
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\EntityCLI.exe
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\EntityCLI.pdb
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\Entity Framework.dll
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\EntityFramework.dll
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\Entity Framework.pdb
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\Entity Framework.dll.config
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\EntityFramework.xml
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\obj\Debug\EntityCLI.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\obj\Debug\EntityCLI.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\obj\Debug\EntityCLI.csproj.CopyComplete
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\obj\Debug\EntityCLI.exe
+C:\Users\Александр\source\repos\Entity Framework\EntityCLI\obj\Debug\EntityCLI.pdb
